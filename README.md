@@ -22,7 +22,7 @@
 
 ## 📁 Projets à découvrir
 
-- [**Mon_projet_ML**](https://github.com/Boubacar5400/Mon_projet_ML) : projet de machine learning (M2 EIED)
+- [**Mon_projet_ML**](https://github.com/Boubacar5400/Mon_projet_ML) : projet de machine learning 
 - [**Stage_labo_tree_uppa**](https://github.com/Boubacar5400/Stage_labo_tree_uppa) : programmes R réalisés pendant mon stage au laboratoire TREE
 - [**Projet-statistique**](https://github.com/Boubacar5400/Projet-statistique) : analyses statistiques en R
 - [**Modelisation-theorique**](https://github.com/Boubacar5400/Modelisation-theorique) : résolution d'un modèle théorique
@@ -30,5 +30,5 @@
 
 ## 📫 Me contacter
 
-- LinkedIn : [ton-profil](https://www.linkedin.com/in/TON-PROFIL)
+- LinkedIn : [ton-profil]([https://www.linkedin.com/in/TON-PROFIL](https://www.linkedin.com/in/boubacar-kande-810848127/))
 - Email : ton.email@exemple.com
