@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/github/stars/Boubacar5400?label=Stars&style=for-the-badge&color=0e75b6" alt="Stars" />
 </p>
 
-🎓 Étudiant en Master 2 Économétrie (EIED) à l'Université de Pau et des Pays de l'Adour  
-📊 Passionné par l'analyse de données, la statistique et le machine learning  
+🎓 Doctorant en Economie à l'Université de Pau et des Pays de l'Adour  
+📊 Passionné par l'analyse de données, la statistique, le machine learning et la modélisation théorique
 📍 Pau, France
 
 ## 🛠️ Outils
