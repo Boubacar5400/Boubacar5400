@@ -30,5 +30,5 @@
 
 ## 📫 Me contacter
 
-- LinkedIn : [ton-profil]([https://www.linkedin.com/in/TON-PROFIL](https://www.linkedin.com/in/boubacar-kande-810848127/)
+- LinkedIn : [ton-profil][https://www.linkedin.com/in/boubacar-kande-810848127/](https://www.linkedin.com/in/boubacar-kande-810848127/)
 - Email : ton.email@exemple.com
